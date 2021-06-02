@@ -27,7 +27,7 @@ $config = [
      * external url, no matter where you come from (direct access or via the
      * reverse proxy).
      */
-    'baseurlpath' => 'htdocs/simplesamlphp/www/',
+    'baseurlpath' => 'var/www/html/malgodev/www/',
 
     /*
      * The 'application' configuration array groups a set configuration options
